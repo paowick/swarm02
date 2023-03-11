@@ -164,16 +164,16 @@ networks:
 ```
 
 #### Step 3
-&emsp; Deploy to https://portainer.ipv9.me
-&emsp; open [_portainer_](https://portainer.ipv9.me/) select **Stack menu**  
-<img src="./image/stack.jpg">
-&emsp; select Add Stack
-<img src="./image/addstack.jpg">
-&emsp;Copy Scripts inside [_docker-compose.yaml_](docker-compose.yaml) file insert them in Web editor Text box Entry Stack name and set your enviroment variable "APPNAME" or you can change by yourself in scripts
-<img src="./image/cp.jpg">
-&emsp;and then deploy
+&emsp; Deploy to https://portainer.ipv9.me \
+&emsp; open [_portainer_](https://portainer.ipv9.me/) select **Stack menu**\
+<img src="./image/stack.jpg">\
+&emsp; select Add Stack\
+<img src="./image/addstack.jpg">\
+&emsp;Copy Scripts inside [_docker-compose.yaml_](docker-compose.yaml) file insert them in Web editor Text box Entry Stack name and set your enviroment variable "APPNAME" or you can change by yourself in scripts\
+<img src="./image/cp.jpg">\
+&emsp;and then deploy\
 <img src="./image/deploy.jpg">
 
 # Result 
-&emsp; Url after deploy https://spcn23swarm02.xops.ipv9.me/\
+&emsp; Url after deploy https://spcn23swarm02.xops.ipv9.me \
 <img src="./image/result.jpg">
